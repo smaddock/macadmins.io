@@ -17,6 +17,8 @@ You can find a community maintained list of tools at our sub-wiki page: [Macadmi
 
 Notable projects within the Mac Admins Open Source include:
 
+* [Carafe](https://github.com/macadmins/carafe) - Carafe is a (fancy) wrapper for Homebrew
+* [default-browser](https://github.com/macadmins/default-browser) - A command line utility for setting the default browser for a user on macOS
 * [Escrow Buddy](https://github.com/macadmins/escrow-buddy) - A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs.
 * [InstallApplications](https://github.com/macadmins/installapplications) - A tool for dynamically using installapplication
 * [MacAdmins Python](https://github.com/macadmins/python) - Framework files for use with popular python macadmin toolsets
@@ -26,6 +28,7 @@ Notable projects within the Mac Admins Open Source include:
 * [Outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand.
 * [SOFA](https://sofa.macadmins.io) - A MacAdmin's Simple Organized Feed (SOFA) for Apple Software Updates
 * [SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
+* [UMAD](https://github.com/macadmins/umad) - A tool to help users with pre-existing devices enroll into MDM
 
 You can find us in the #macadmins-opensource channel on the [Mac Admins slack](https://www.macadmins.org/) or <a rel="me" href="https://hachyderm.io/@macadminsopensource">@macadminsopensource@hachyderm.io</a> on Mastodon.
 
