@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 title: Mac Admins Open Source
 github:
   is_project_page: false
@@ -8,7 +8,5 @@ url: https://macadmins.github.io
 navigation:
   - name: Home
     link: /
-  - name: Join the Board
-    link: /join-the-board/
   - name: Project Onboarding
     link: /project-onboarding/
