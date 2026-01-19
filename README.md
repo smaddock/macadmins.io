@@ -16,6 +16,7 @@ Notable projects within the Mac Admins Open Source include:
 * [Carafe](https://github.com/macadmins/carafe) - Carafe is a (fancy) wrapper for Homebrew
 * [default-browser](https://github.com/macadmins/default-browser) - A command line utility for setting the default browser for a user on macOS
 * [Escrow Buddy](https://github.com/macadmins/escrow-buddy) - A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs.
+* [icongrabber](https://github.com/macadmins/icongrabber) - A fast, lightweight command-line tool to extract high-quality icons from macOS applications.
 * [InstallApplications](https://github.com/macadmins/installapplications) - A tool for dynamically using installapplication
 * [MacAdmins Python](https://github.com/macadmins/python) - Framework files for use with popular python macadmin toolsets
 * [Munki Builds](https://github.com/macadmins/munki-builds/releases) - Code signed [Munki](https://github.com/munki/munki) builds
